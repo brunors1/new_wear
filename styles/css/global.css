@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background-color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+}
+
+/* Section */
+
+.section_custom {
+    padding: 1rem 0rem;
+}
+
+h1.text-center {
+    padding: 2rem 0rem;
+}
+
+h2.section-heading {
+    padding: 1rem 0rem;
+}
+
+#nossa_equipe h4 {
+    padding-top: 1rem;
+}
+
+div.card-body {
+    text-align: center;
+}
+
+p.card-text {
+    color:orange;
+    font-weight: bold;
+}
+/* Menu */
+
+li.nav-item {
+    padding: 0rem 1rem;
+}
+
+a.navbar-brand {
+    color: whitesmoke;
+    font-weight:550;
+    font-size: larger;
+}
+
+a.nav-link {
+    color: whitesmoke;
+    font-weight:500;
+    font-size: larger;
+}
+
+a.nav-link:hover {
+    color: #ffc107;
+}
