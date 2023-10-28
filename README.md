@@ -13,7 +13,7 @@ New Wear é um site de comércio de roupas. Este projeto foi desenvolvido como p
 
 ## Estrutura do Projeto
 
-O projeto BitsHouse possui a seguinte estrutura de diretórios:
+O projeto New Wear possui a seguinte estrutura de diretórios:
 
 - `assets`: Contém as imagens utilizadas no site.
 - `pages`: Contém as páginas, nesse caso apenas o index.html.
