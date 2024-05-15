@@ -1,3 +1,10 @@
+![image](https://github.com/brunors1/new_wear/assets/117781967/cf87f0ad-bda0-443e-b6a7-e1a87dc68791)
+
+![image](https://github.com/brunors1/new_wear/assets/117781967/d3b2e3cd-9464-474c-992f-8a487110146e)
+
+![image](https://github.com/brunors1/new_wear/assets/117781967/a7389ec4-feb2-4057-8f9c-1dcfd9351993)
+
+
 # New Wear
 
 ## Descrição
